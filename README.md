@@ -12,3 +12,4 @@ Today I Learned
 ### 9. [170728](170728.md) javascript 소개
 ### 10. [170731](170731.md) javascript 자료형, 반복문, 객체
 ### 11. [170801](170801.md) javascript 객체, 함수, prototype
+### 12. [170803](170803.md) javascript prototype, scope, this | SASS basic
