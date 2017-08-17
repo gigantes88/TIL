@@ -13,3 +13,9 @@ Today I Learned
 ### 10. [170731](170731.md) javascript 자료형, 반복문, 객체
 ### 11. [170801](170801.md) javascript 객체, 함수, prototype
 ### 12. [170803](170803.md) javascript prototype, scope, this | SASS basic
+### 13. [170804](170804.md) Software Engineering, Devlopment Model, Agile. etc
+### 14. [170807](170807.md) SASS
+### 15. [170808](170808.md) Javascript OOP
+### 16. [170809](170809.md) Javascript Array, Date, String, RegExp
+### 17. [170814](170814.md) Javascript DOM, Ajax, Event
+### 18. [170816](170816.md) Javascript Event, jQuery
