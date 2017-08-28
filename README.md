@@ -19,3 +19,6 @@ Today I Learned
 ### 16. [170809](170809.md) Javascript Array, Date, String, RegExp
 ### 17. [170814](170814.md) Javascript DOM, Ajax, Event
 ### 18. [170816](170816.md) Javascript Event, jQuery
+### 19. [170821](170821.md) ES6 let, const, arrow
+### 20. [170822](170822.md) ES6 class, module, promise
+### 21. [170828](170828.md) node.js promise, then, REST API
