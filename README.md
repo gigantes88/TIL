@@ -22,3 +22,5 @@ Today I Learned
 ### 19. [170821](170821.md) ES6 let, const, arrow
 ### 20. [170822](170822.md) ES6 class, module, promise
 ### 21. [170828](170828.md) node.js promise, then, REST API
+### 22. [170829](170829.md) node.js HTTP 분석
+### 23. [170830](170830.md) node.js url shortner generater
