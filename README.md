@@ -29,3 +29,4 @@ Today I Learned
 ### 26. [170906](170906.md) node.js HTTP Cache, GraphQL, Single Page Application
 ### 27. [170916](170916.md) Web Accessibility
 ### 28. [170918](170918.md) React.js 설치하기, yarn 서버 설치, component, props
+### 29. [170925](170925.md) 프론트엔드 테크멘토링 feat.조은 (우아한 형제들)
