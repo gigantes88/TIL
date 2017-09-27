@@ -30,3 +30,4 @@ Today I Learned
 ### 27. [170916](170916.md) Web Accessibility
 ### 28. [170918](170918.md) React.js 설치하기, yarn 서버 설치, component, props
 ### 29. [170925](170925.md) 프론트엔드 테크멘토링 feat.조은 (우아한 형제들)
+### 30. [170927](170927.md) React.js 파일업로드, 양자택일 서비스, 소셜로그인, 리스트 렌더, 파일간 props/state 유지, firebase 사용법
